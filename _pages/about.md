@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a third-year Master's student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/). I am currently researching the trustworthiness of large language models under the supervision of Prof. [Pengfei Liu](https://plms.ai/people/index.html), and I am grateful for the opportunity to work with Prof. [Graham Neubig](https://www.phontron.com/). Before joining Fudan, I received my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
+I am a third-year Master's student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/). Currently, My  research centers on the trustworthiness of large language models under the guidance of Prof. [Pengfei Liu](https://plms.ai/people/index.html), and I am very fortunate to receive mentoring from Prof. [Graham Neubig](https://www.phontron.com/) during this period. Before joining Fudan, I obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
 
-My current research interests focus on the trustworthiness of large language models, particularly on hallucination and honesty. I previously worked in the area of Information Extratcion.
+My primary research interests revolve around the trustworthiness of large language models, with a particular focus on issues related to hallucination and honesty. Previously, I worked in the area of Information Extraction.
 
 # Education
 - **Fudan University**  
