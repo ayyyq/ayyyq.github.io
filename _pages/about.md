@@ -39,6 +39,9 @@ My primary research interests revolve around AI alignment, with a particular foc
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**Alignment for Honesty**  
+*<ins>Yuqing Yang</ins>*, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu
+
 **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**  
 Tengxiao Liu, Qipeng Guo, *<ins>Yuqing Yang</ins>*, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
 EMNLP 2023. [[paper]](https://arxiv.org/abs/2310.14628)
