@@ -40,7 +40,8 @@ My primary research interests revolve around AI alignment, with a particular foc
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
 **Alignment for Honesty**  
-*<ins>Yuqing Yang</ins>*, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu
+*<ins>Yuqing Yang</ins>*, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu  
+arXiv 2023. [[paper]](https://ayyyq.github.io/)
 
 **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**  
 Tengxiao Liu, Qipeng Guo, *<ins>Yuqing Yang</ins>*, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
