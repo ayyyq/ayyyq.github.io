@@ -61,7 +61,7 @@ ACL 2023. [[paper]](https://arxiv.org/abs/2305.19162) [[code]](https://github.co
 
 **DORE: Document ordered relation extraction based on generative framework**  
 Qipeng Guo\*, *<ins>Yuqing Yang</ins>*\*, Hang Yan, Xipeng Qiu, Zheng Zhang  
-EMNLP 2022 findings. [[paper]](https://arxiv.org/abs/2210.16064) [[code]](https://github.com/ayyyq/DORE)
+EMNLP 2022 Findings. [[paper]](https://arxiv.org/abs/2210.16064) [[code]](https://github.com/ayyyq/DORE)
 
 **Uncertain local-to-global networks for document-level event factuality identification**  
 Pengfei Cao, Yubo Chen, *<ins>Yuqing Yang</ins>*, Kang Liu, Jun Zhao  
