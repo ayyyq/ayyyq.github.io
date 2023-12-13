@@ -18,7 +18,7 @@ My primary research interests revolve around AI alignment, with a particular foc
   M.S. in Computer Science, 2021 - 2024 (expected)  
   Advisor: Prof. Xipeng Qiu  
 - **University of Chinese Academy of Sciences**  
-  B.S. in Computer Science, 2017 - 2021  
+  B.E. in Computer Science, 2017 - 2021  
   GPA: 3.94/4.00, Rankings: 3/112  
 
 # Experience
@@ -41,7 +41,7 @@ My primary research interests revolve around AI alignment, with a particular foc
 
 **Alignment for Honesty**  
 *<ins>Yuqing Yang</ins>*, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu  
-arXiv 2023. [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
+preprint arXiv 2023. [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
 
 **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**  
 Tengxiao Liu, Qipeng Guo, *<ins>Yuqing Yang</ins>*, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
@@ -49,11 +49,11 @@ EMNLP 2023. [[paper]](https://arxiv.org/abs/2310.14628)
 
 **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way**  
 Kai Lv\*, Shuo Zhang\*, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, *<ins>Yuqing Yang</ins>*, Honglin Guo, Tengxiao Liu, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu  
-EMNLP Demo 2023. [[code]](https://github.com/OpenLMLab/collie)
+EMNLP Demo 2023. [[paper]](https://arxiv.org/abs/2312.00407) [[code]](https://github.com/OpenLMLab/collie)
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 Kai Lv, *<ins>Yuqing Yang</ins>*, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
-arXiv 2023. [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
+preprint arXiv 2023. [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **An AMR-based Link Prediction Approach for Document-level Event Argument Extraction**  
 *<ins>Yuqing Yang</ins>*\*, Qipeng Guo\*, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
