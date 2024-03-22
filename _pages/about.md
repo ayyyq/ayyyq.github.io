@@ -31,9 +31,6 @@ My primary research interests revolve around AI alignment, with a particular foc
 - **Institute of Automation, Chinese Academy of Sciences**  
   Advisor: Prof. [Jun Zhao](http://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html), Prof. [Yubo Chen](http://www.nlpr.ia.ac.cn/cip/yubochen/index.html)  
   September 2020 - June 2021  
-- **Institute of Computing Technology, Chinese Academy of Sciences**  
-  Advisor: Prof. [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)  
-  February 2020 - June 2020  
 
 # Publications
 \* denotes co-first authors
