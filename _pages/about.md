@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a third-year Master's student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/). Currently, I am researching on honesty alignment of large language models under the guidance of Prof. [Pengfei Liu](https://plms.ai/people/index.html), and I am very fortunate to receive mentoring from Prof. [Graham Neubig](https://www.phontron.com/) during this period. Before joining Fudan, I obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
+I am a third-year Master's student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/). Currently, I am researching on knowledge and reasoning of large language models under the guidance of Prof. [Pengfei Liu](https://plms.ai/people/index.html), and I am very fortunate to receive mentoring from Prof. [Graham Neubig](https://www.phontron.com/) during this period. Before joining Fudan, I obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
 
-My primary research interests revolve around AI alignment, with a particular focus on issues related to truthfulness and honesty. Previously, I worked in the area of Information Extraction.
+My primary research interests revolve around LLM alignment, with a particular focus on issues related to truthfulness and honesty. Previously, I worked in the area of Information Extraction.
 
 # Education
 - **Fudan University**  
