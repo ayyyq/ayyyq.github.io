@@ -9,11 +9,14 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am an incoming Ph.D. student at USC to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Currently, I am interning at GAIR Lab, woking with my amazing advisor, Prof. [Pengfei Liu](https://plms.ai/people/index.html). During my intership, I have been very fortunate to receive mentoring from Prof. [Graham Neubig](https://www.phontron.com/) for a period. I received my master's degree at Fudan Univeristy, advised by [Xipeng Qiu](https://xpqiu.github.io/). Before joining Fudan, I obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
+I am a first-year Ph.D. student at USC to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Before that, I interned at GAIR Lab, woking with my amazing advisor, Prof. [Pengfei Liu](https://plms.ai/people/index.html). I received my master's degree at Fudan Univeristy, advised by [Xipeng Qiu](https://xpqiu.github.io/), and obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
 
-My primary research interests revolve around LLM alignment, with a particular focus on issues related to LLM knowledge and reasoning. Previously, I worked in the area of Information Extraction.
+My primary research interests revolve around LLM understanding, with a particular focus on issues related to LLM knowledge and reasoning. Previously, I worked in the area of Information Extraction.
 
 # Education
+- **University of Southern California**  
+  Ph.D. in Computer Science, 2024 - Present  
+  Advisor: Prof. Robin Jia
 - **Fudan University**  
   M.S. in Computer Science, 2021 - 2024  
   Advisor: Prof. Xipeng Qiu  
@@ -24,7 +27,7 @@ My primary research interests revolve around LLM alignment, with a particular fo
 # Experience
 - **GAIR Lab, Shanghai Jiao Tong University**  
   Advisor: Prof. Pengfei Liu  
-  June 2023 - Present
+  June 2023 - June 2024
 - **Amazon AWS AI**  
   Advisor: Dr. [Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=en), Prof. [Zheng Zhang](https://scholar.google.com/citations?user=k0KiE4wAAAAJ&hl=en), Prof. [Yue Zhang](https://frcchang.github.io/)  
   July 2021 - June 2023  
