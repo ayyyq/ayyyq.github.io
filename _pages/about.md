@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a first-year Ph.D. student at USC to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Before that, I interned at GAIR Lab, woking with my amazing advisor, Prof. [Pengfei Liu](https://plms.ai/people/index.html). I received my master's degree at Fudan Univeristy, advised by [Xipeng Qiu](https://xpqiu.github.io/), and obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
+I am a first-year Ph.D. student at the University of Southern California, advised by Prof. [Robin Jia](https://robinjia.github.io/). Before that, I interned at GAIR Lab, woking with my amazing advisor, Prof. [Pengfei Liu](https://plms.ai/people/index.html). I received my master's degree from Fudan Univeristy, advised by [Xipeng Qiu](https://xpqiu.github.io/), and obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
 
 My primary research interests revolve around LLM understanding, with a particular focus on issues related to LLM knowledge and reasoning. Previously, I worked in the area of Information Extraction.
 
