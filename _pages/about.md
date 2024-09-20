@@ -69,13 +69,18 @@ EMNLP 2023. [[paper]](https://arxiv.org/abs/2310.14628)
 
 [//]: # (EMNLP Demo 2023. [[paper]]&#40;https://arxiv.org/abs/2312.00407&#41; [[code]]&#40;https://github.com/OpenLMLab/collie&#41;)
 
-**An AMR-based Link Prediction Approach for Document-level Event Argument Extraction**  
-**Yuqing Yang**\*, Qipeng Guo\*, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
-ACL 2023. [[paper]](https://arxiv.org/abs/2305.19162) [[code]](https://github.com/ayyyq/TARA)
+[//]: # (**An AMR-based Link Prediction Approach for Document-level Event Argument Extraction**  )
 
-**DORE: Document ordered relation extraction based on generative framework**  
-Qipeng Guo\*, **Yuqing Yang**\*, Hang Yan, Xipeng Qiu, Zheng Zhang  
-EMNLP 2022 Findings. [[paper]](https://arxiv.org/abs/2210.16064) [[code]](https://github.com/ayyyq/DORE)
+[//]: # (**Yuqing Yang**\*, Qipeng Guo\*, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  )
+
+[//]: # (ACL 2023. [[paper]]&#40;https://arxiv.org/abs/2305.19162&#41; [[code]]&#40;https://github.com/ayyyq/TARA&#41;)
+
+[//]: # ()
+[//]: # (**DORE: Document ordered relation extraction based on generative framework**  )
+
+[//]: # (Qipeng Guo\*, **Yuqing Yang**\*, Hang Yan, Xipeng Qiu, Zheng Zhang  )
+
+[//]: # (EMNLP 2022 Findings. [[paper]]&#40;https://arxiv.org/abs/2210.16064&#41; [[code]]&#40;https://github.com/ayyyq/DORE&#41;)
 
 [//]: # (**Uncertain local-to-global networks for document-level event factuality identification**  )
 
