@@ -35,13 +35,13 @@ My primary research interests revolve around LLM understanding, with a particula
   Advisor: Prof. [Jun Zhao](http://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html), Prof. [Yubo Chen](http://www.nlpr.ia.ac.cn/cip/yubochen/index.html)  
   September 2020 - June 2021  
 
-# Selected Publications
+# Publications
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
-preprint arXiv 2024. [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
+EMNLP Findings 2024. [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
 
 **BeHonest: Benchmarking Honesty of Large Language Models**  
 Steffi Chern\*, Zhulin Hu\*, **Yuqing Yang**\*, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu  
@@ -49,11 +49,11 @@ preprint arXiv 2024. [[paper]](https://arxiv.org/abs/2406.13261) [[code]](https:
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, **Yuqing Yang**, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
-preprint arXiv 2024. [[paper]](https://arxiv.org/abs/2406.12753)
+NeurIPS Datasets and Benchmarks 2024. [[paper]](https://arxiv.org/abs/2406.12753)
 
 **Alignment for Honesty**  
 **Yuqing Yang**, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu  
-preprint arXiv 2023. [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
+NeurIPS 2024. [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 Kai Lv, **Yuqing Yang**, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
