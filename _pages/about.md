@@ -29,10 +29,10 @@ My primary research interests revolve around LLM understanding, with a particula
   Advisor: Prof. Pengfei Liu  
   June 2023 - June 2024
 - **Amazon AWS AI**  
-  Advisor: Dr. [Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=en), Prof. [Zheng Zhang](https://scholar.google.com/citations?user=k0KiE4wAAAAJ&hl=en), Prof. [Yue Zhang](https://frcchang.github.io/)  
+  Advisors: Dr. [Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=en), Prof. [Zheng Zhang](https://scholar.google.com/citations?user=k0KiE4wAAAAJ&hl=en), Prof. [Yue Zhang](https://frcchang.github.io/)  
   July 2021 - June 2023  
 - **Institute of Automation, Chinese Academy of Sciences**  
-  Advisor: Prof. [Jun Zhao](http://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html), Prof. [Yubo Chen](http://www.nlpr.ia.ac.cn/cip/yubochen/index.html)  
+  Advisors: Prof. [Jun Zhao](http://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html), Prof. [Yubo Chen](http://www.nlpr.ia.ac.cn/cip/yubochen/index.html)  
   September 2020 - June 2021  
 
 # Publications
