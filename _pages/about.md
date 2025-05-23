@@ -41,7 +41,7 @@ My primary research interests revolve around LLM understanding, with a particula
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
-arXiv. [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+preprint arXiv 2025. [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  

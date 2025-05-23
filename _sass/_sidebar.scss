@@ -72,9 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  width: auto;       // 自动适应内容宽度
+  height: auto;      // 允许容器高度随图变化
 
   @include breakpoint($large) {
     display: block;
@@ -83,15 +82,13 @@
   }
 
   img {
-    max-width: 175px;
+    width: 100%;      // 或者设置具体宽度如 120px
+    height: auto;     // 保持图片比例
     border-radius: 0;
-
-    //@include breakpoint($large) {
-    //  padding: 5px;
-    //  border: 1px solid $border-color;
-    //}
+    display: block;
   }
 }
+
 
 .author__content {
   display: table-cell;
