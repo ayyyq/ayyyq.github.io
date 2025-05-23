@@ -39,6 +39,10 @@ My primary research interests revolve around LLM understanding, with a particula
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
+**Yuqing Yang**, Robin Jia  
+arXiv. [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
 EMNLP Findings 2024. [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
@@ -49,7 +53,7 @@ EMNLP Findings 2024. [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https:
 
 [//]: # (preprint arXiv 2024. [[paper]]&#40;https://arxiv.org/abs/2406.13261&#41; [[code]]&#40;https://github.com/GAIR-NLP/BeHonest&#41;)
 
-**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**
+**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, **Yuqing Yang**, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
 NeurIPS Datasets and Benchmarks 2024. [[paper]](https://arxiv.org/abs/2406.12753)
 
