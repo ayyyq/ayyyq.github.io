@@ -43,7 +43,9 @@
 /* =========================================================
    Custom homepage styling
    ========================================================= */
-$accent: #2262da;
+$accent:      #89d7b7;  /* mint */
+$accent-deep: #3fa980;  /* deeper mint for bars / borders / pill text */
+$accent-dark: #14533c;  /* dark green text on mint backgrounds */
 
 .page__content {
 
@@ -53,7 +55,7 @@ $accent: #2262da;
     margin-top: 1.8em;
     margin-bottom: 0.75em;
     padding-bottom: 0.3em;
-    border-bottom: 2px solid mix(#fff, $accent, 78%);
+    border-bottom: 2px solid mix(#fff, $accent, 45%);
     color: #2a2a2a;
 
     &::before {
@@ -63,7 +65,7 @@ $accent: #2262da;
       height: 0.9em;
       margin-right: 0.5em;
       vertical-align: -0.08em;
-      background: $accent;
+      background: $accent-deep;
       border-radius: 3px;
     }
   }
@@ -73,8 +75,8 @@ $accent: #2262da;
     list-style: none;
     margin-left: 0;
     padding: 0.7em 1.1em;
-    background: mix(#fff, $accent, 95%);
-    border-left: 4px solid $accent;
+    background: mix(#fff, $accent, 82%);
+    border-left: 4px solid $accent-deep;
     border-radius: 6px;
 
     li {
@@ -92,13 +94,12 @@ $accent: #2262da;
     font-weight: 600;
     line-height: 1.7;
     letter-spacing: 0.02em;
-    color: #fff;
     border-radius: 4px;
     vertical-align: 0.08em;
   }
-  .venue-pub  { background: #2262da; }  /* peer-reviewed venue */
-  .venue-pre  { background: #8a8f98; }  /* preprint / under review */
-  .venue-oral { background: #2e9e5b; }  /* oral highlight */
+  .venue-pub  { background: $accent;  color: $accent-dark; }  /* peer-reviewed venue */
+  .venue-pre  { background: #e5e7eb;  color: #4b5563; }       /* preprint / under review */
+  .venue-oral { background: #1f7a47;  color: #fff; }          /* oral highlight */
 
   /* Publication "[paper]" / "[code]" links styled as small pills */
   p a[href*="arxiv.org"],
@@ -109,17 +110,17 @@ $accent: #2262da;
     margin: 0.1em 0.15em 0.1em 0;
     font-size: 0.85em;
     line-height: 1.6;
-    color: $accent;
-    background: mix(#fff, $accent, 92%);
-    border: 1px solid mix(#fff, $accent, 70%);
+    color: $accent-deep;
+    background: mix(#fff, $accent, 80%);
+    border: 1px solid mix(#fff, $accent, 45%);
     border-radius: 4px;
     text-decoration: none;
     transition: all 0.15s ease;
 
     &:hover {
       color: #fff;
-      background: $accent;
-      border-color: $accent;
+      background: $accent-dark;
+      border-color: $accent-dark;
     }
   }
 }

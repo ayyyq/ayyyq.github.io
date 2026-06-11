@@ -15,7 +15,7 @@ redirect_from:
 
 [//]: # (I am broadly interested in studying how current language models fail. My research focuses on analyzing and mitigating their limitations in problem-solving &#40;e.g., tackling unseen reasoning tasks, avoiding overcomplicating simple questions&#41; and human interaction &#40;e.g., managing memory, handling ambiguous user queries&#41;. Ultimately, I aim to make language models more useful and reliable under limited resources.)
 
-I am broadly interested in understanding *how and why* today's language models fail. My research analyzes and mitigates their limitations in **problem-solving** and **human-AI interaction**, with the ultimate goal of making language models more useful and reliable under limited resources.
+I am broadly interested in understanding *how and why* today's large language models fail. My research analyzes and mitigates their limitations in **problem-solving** and **human-AI interaction**, with the ultimate goal of making large language models more useful and reliable under limited resources.
 
 🔭 My ongoing projects center on **LLM Memory** and **Agent Evaluation and Benchmarking**.
 
