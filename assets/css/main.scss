@@ -43,19 +43,19 @@
 /* =========================================================
    Custom homepage styling
    ========================================================= */
-$accent:      #89d7b7;  /* mint */
-$accent-deep: #3fa980;  /* deeper mint for bars / borders / pill text */
-$accent-dark: #14533c;  /* dark green text on mint backgrounds */
+$accent:    #475569;  /* muted slate — the single accent */
+$ink:       #374151;  /* dark gray text on badges */
+$line:      #e5e7eb;  /* light gray rules / borders */
 
 .page__content {
 
-  /* Section headings: compact, with an accent bar + underline */
+  /* Section headings: compact, with a slate tick + thin gray underline */
   h1 {
     font-size: 1.45em;
     margin-top: 1.8em;
     margin-bottom: 0.75em;
     padding-bottom: 0.3em;
-    border-bottom: 2px solid mix(#fff, $accent, 45%);
+    border-bottom: 1px solid $line;
     color: #2a2a2a;
 
     &::before {
@@ -65,18 +65,18 @@ $accent-dark: #14533c;  /* dark green text on mint backgrounds */
       height: 0.9em;
       margin-right: 0.5em;
       vertical-align: -0.08em;
-      background: $accent-deep;
+      background: $accent;
       border-radius: 3px;
     }
   }
 
-  /* News section rendered as a soft highlighted card */
+  /* News section rendered as a soft neutral card */
   #news + ul {
     list-style: none;
     margin-left: 0;
     padding: 0.7em 1.1em;
-    background: mix(#fff, $accent, 82%);
-    border-left: 4px solid $accent-deep;
+    background: #f6f7f8;
+    border-left: 4px solid $accent;
     border-radius: 6px;
 
     li {
@@ -97,9 +97,9 @@ $accent-dark: #14533c;  /* dark green text on mint backgrounds */
     border-radius: 4px;
     vertical-align: 0.08em;
   }
-  .venue-pub  { background: $accent;  color: $accent-dark; }  /* peer-reviewed venue */
-  .venue-pre  { background: #e5e7eb;  color: #4b5563; }       /* preprint / under review */
-  .venue-oral { background: #1f7a47;  color: #fff; }          /* oral highlight */
+  .venue-pub  { background: #e8eaed;  color: $ink; }     /* peer-reviewed venue */
+  .venue-pre  { background: #f1f2f4;  color: #6b7280; }  /* preprint / under review */
+  .venue-oral { background: $accent;  color: #fff; }     /* oral highlight */
 
   /* Publication "[paper]" / "[code]" links styled as small pills */
   p a[href*="arxiv.org"],
@@ -110,17 +110,17 @@ $accent-dark: #14533c;  /* dark green text on mint backgrounds */
     margin: 0.1em 0.15em 0.1em 0;
     font-size: 0.85em;
     line-height: 1.6;
-    color: $accent-deep;
-    background: mix(#fff, $accent, 80%);
-    border: 1px solid mix(#fff, $accent, 45%);
+    color: $accent;
+    background: #f6f7f8;
+    border: 1px solid #dcdfe3;
     border-radius: 4px;
     text-decoration: none;
     transition: all 0.15s ease;
 
     &:hover {
       color: #fff;
-      background: $accent-dark;
-      border-color: $accent-dark;
+      background: $accent;
+      border-color: $accent;
     }
   }
 }
