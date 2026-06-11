@@ -9,13 +9,19 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a second-year Ph.D. student at the University of Southern California, advised by Prof. [Robin Jia](https://robinjia.github.io/). Before that, I interned at GAIR Lab, woking with Prof. [Pengfei Liu](https://plms.ai/people/index.html). I received my master's degree from Fudan Univeristy, advised by [Xipeng Qiu](https://xpqiu.github.io/), and obtained my bachelor's degree from the University of Chinese Academy of Sciences in 2021.
+👋 Hi, I'm Yuqing! I'm a second-year Ph.D. student at the **University of Southern California**, where I'm fortunate to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Before USC, I interned at **GAIR Lab** with Prof. [Pengfei Liu](https://plms.ai/people/index.html), earned my master's degree at **Fudan University** under Prof. [Xipeng Qiu](https://xpqiu.github.io/), and received my bachelor's degree from the **University of Chinese Academy of Sciences** in 2021.
 
 [//]: # (My primary research interests revolve around LLM understanding, with a particular focus on issues related to LLM knowledge and reasoning.)
 
 [//]: # (I am broadly interested in studying how current language models fail. My research focuses on analyzing and mitigating their limitations in problem-solving &#40;e.g., tackling unseen reasoning tasks, avoiding overcomplicating simple questions&#41; and human interaction &#40;e.g., managing memory, handling ambiguous user queries&#41;. Ultimately, I aim to make language models more useful and reliable under limited resources.)
 
-I am broadly interested in studying how current language models fail. My research focuses on analyzing and mitigating their limitations in problem-solving and human interaction. Ultimately, I aim to make language models more useful and reliable under limited resources.
+I am broadly interested in understanding *how and why* today's language models fail. My research analyzes and mitigates their limitations in **problem-solving** and **human-AI interaction**, with the ultimate goal of making language models more useful and reliable under limited resources.
+
+🔭 My ongoing projects center on **LLM Memory** and **Agent Evaluation and Benchmarking**.
+
+# News
+- 📍 **\[Jun 2026\]** I'm currently interning at **Google, Sunnyvale (SVL)**. Always happy to chat, feel free to reach out!
+- ✈️ **\[Jul 2026\]** I'll be attending **ACL 2026 in San Diego (Jul 3 to 7)**. Let's grab a coffee and chat!
 
 # Education
 - **University of Southern California**  
@@ -26,31 +32,29 @@ I am broadly interested in studying how current language models fail. My researc
   Advisor: Prof. Xipeng Qiu  
 - **University of Chinese Academy of Sciences**  
   B.E. in Computer Science, 2017 - 2021  
-  GPA: 3.94/4.00, Rankings: 3/112  
+  <!-- GPA: 3.94/4.00, Rankings: 3/112   -->
 
-[//]: # (# Experience)
-
-[//]: # (- **GAIR Lab, Shanghai Jiao Tong University**  )
-
-[//]: # (  Advisor: Prof. Pengfei Liu  )
-
-[//]: # (  June 2023 - June 2024)
-
-[//]: # (- **Amazon AWS AI**  )
-
-[//]: # (  Advisors: Dr. [Qipeng Guo]&#40;https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=en&#41;, Prof. [Zheng Zhang]&#40;https://scholar.google.com/citations?user=k0KiE4wAAAAJ&hl=en&#41;, Prof. [Yue Zhang]&#40;https://frcchang.github.io/&#41;  )
-
-[//]: # (  July 2021 - June 2023  )
-
-[//]: # (- **Institute of Automation, Chinese Academy of Sciences**  )
-
-[//]: # (  Advisors: Prof. [Jun Zhao]&#40;http://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html&#41;, Prof. [Yubo Chen]&#40;http://www.nlpr.ia.ac.cn/cip/yubochen/index.html&#41;  )
-
-[//]: # (  September 2020 - June 2021  )
+# Experience
+- 🟦 **Systems Research, Google**  
+  Research Intern, May 2026 - Present  
+  Mentor: [Jiani Zhang](https://jennyzhang0215.github.io/)  
+  Working on agentic environment generation.
+- 🟧 **Amazon Bedrock Core Science**  
+  Applied Scientist Intern, May 2025 - Aug. 2025  
+  Mentor: [Qi Zhu](https://gentlezhu.github.io/)  
+  Strengthened LLM robustness on table understanding by diagnosing failure modes and optimizing data-referencing accuracy.
 
 # Selected Publications
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
+
+**Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks**  
+**Yuqing Yang**, Tengxiao Liu, Wang Bill Zhu, Taiwei Shi, Linxin Song, Robin Jia  
+preprint arXiv 2026. [[paper]](https://arxiv.org/abs/2604.11610) [[code]](https://github.com/ayyyq/heterogeneous-memory-extraction)
+
+**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**  
+**Yuqing Yang**, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala  
+ACL 2026 (Oral). [paper & code coming July]
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
