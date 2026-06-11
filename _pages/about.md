@@ -54,7 +54,7 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**  
 **Yuqing Yang**, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala  
-<span class="venue venue-pub">ACL 2026</span> <span class="venue venue-oral">Oral</span> [paper & code coming July]
+<span class="venue venue-cl">ACL 2026</span> <span class="venue venue-oral">Oral</span> [paper & code coming July]
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
@@ -62,7 +62,7 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
-<span class="venue venue-pub">EMNLP Findings 2024</span> [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
+<span class="venue venue-cl">EMNLP Findings 2024</span> [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
 
 [//]: # (**BeHonest: Benchmarking Honesty of Large Language Models**  )
 
@@ -72,19 +72,19 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **Alignment for Honesty**  
 **Yuqing Yang**, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu  
-<span class="venue venue-pub">NeurIPS 2024</span> [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
+<span class="venue venue-ml">NeurIPS 2024</span> [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, **Yuqing Yang**, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
-<span class="venue venue-pub">NeurIPS D&amp;B 2024</span> [[paper]](https://arxiv.org/abs/2406.12753)
+<span class="venue venue-ml">NeurIPS D&amp;B 2024</span> [[paper]](https://arxiv.org/abs/2406.12753)
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 Kai Lv, **Yuqing Yang**, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
-<span class="venue venue-pub">ACL 2024</span> <span class="venue venue-oral">Oral</span> [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
+<span class="venue venue-cl">ACL 2024</span> <span class="venue venue-oral">Oral</span> [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**  
 Tengxiao Liu, Qipeng Guo, **Yuqing Yang**, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
-<span class="venue venue-pub">EMNLP 2023</span> [[paper]](https://arxiv.org/abs/2310.14628)
+<span class="venue venue-cl">EMNLP 2023</span> [[paper]](https://arxiv.org/abs/2310.14628)
 
 [//]: # (**CoLLiE: Collaborative Training of Large Language Models in an Efficient Way**  )
 
