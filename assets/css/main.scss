@@ -39,3 +39,87 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* =========================================================
+   Custom homepage styling
+   ========================================================= */
+$accent: #2262da;
+
+.page__content {
+
+  /* Section headings: compact, with an accent bar + underline */
+  h1 {
+    font-size: 1.45em;
+    margin-top: 1.8em;
+    margin-bottom: 0.75em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid mix(#fff, $accent, 78%);
+    color: #2a2a2a;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 5px;
+      height: 0.9em;
+      margin-right: 0.5em;
+      vertical-align: -0.08em;
+      background: $accent;
+      border-radius: 3px;
+    }
+  }
+
+  /* News section rendered as a soft highlighted card */
+  #news + ul {
+    list-style: none;
+    margin-left: 0;
+    padding: 0.7em 1.1em;
+    background: mix(#fff, $accent, 95%);
+    border-left: 4px solid $accent;
+    border-radius: 6px;
+
+    li {
+      margin-bottom: 0.45em;
+      &:last-child { margin-bottom: 0; }
+    }
+  }
+
+  /* Publication venue badges */
+  .venue {
+    display: inline-block;
+    padding: 0.05em 0.6em;
+    margin-right: 0.35em;
+    font-size: 0.78em;
+    font-weight: 600;
+    line-height: 1.7;
+    letter-spacing: 0.02em;
+    color: #fff;
+    border-radius: 4px;
+    vertical-align: 0.08em;
+  }
+  .venue-pub  { background: #2262da; }  /* peer-reviewed venue */
+  .venue-pre  { background: #8a8f98; }  /* preprint / under review */
+  .venue-oral { background: #2e9e5b; }  /* oral highlight */
+
+  /* Publication "[paper]" / "[code]" links styled as small pills */
+  p a[href*="arxiv.org"],
+  p a[href*="github.com"],
+  p a[href*="aclanthology"] {
+    display: inline-block;
+    padding: 0.05em 0.55em;
+    margin: 0.1em 0.15em 0.1em 0;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: $accent;
+    background: mix(#fff, $accent, 92%);
+    border: 1px solid mix(#fff, $accent, 70%);
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.15s ease;
+
+    &:hover {
+      color: #fff;
+      background: $accent;
+      border-color: $accent;
+    }
+  }
+}

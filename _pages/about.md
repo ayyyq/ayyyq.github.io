@@ -20,8 +20,8 @@ I am broadly interested in understanding *how and why* today's language models f
 🔭 My ongoing projects center on **LLM Memory** and **Agent Evaluation and Benchmarking**.
 
 # News
-- 📍 **\[Jun 2026\]** I'm currently interning at **Google, Sunnyvale (SVL)**. Always happy to chat, feel free to reach out!
-- ✈️ **\[Jul 2026\]** I'll be attending **ACL 2026 in San Diego (Jul 3 to 7)**. Let's grab a coffee and chat!
+- 📍 **\[Jun 2026\]** I'm currently interning at **Google, Sunnyvale (SVL)**. Always happy to chat about **LLM memory and agents**, feel free to reach out!
+- ✈️ **\[Jul 2026\]** I'll be attending **ACL 2026 in San Diego (Jul 3 to 7)**. Come say hi!
 
 # Education
 - **University of Southern California**  
@@ -50,19 +50,19 @@ I am broadly interested in understanding *how and why* today's language models f
 
 **Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks**  
 **Yuqing Yang**, Tengxiao Liu, Wang Bill Zhu, Taiwei Shi, Linxin Song, Robin Jia  
-preprint arXiv 2026. [[paper]](https://arxiv.org/abs/2604.11610) [[code]](https://github.com/ayyyq/heterogeneous-memory-extraction)
+<span class="venue venue-pre">Preprint 2026</span> [[paper]](https://arxiv.org/abs/2604.11610) [[code]](https://github.com/ayyyq/heterogeneous-memory-extraction)
 
 **When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**  
 **Yuqing Yang**, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala  
-ACL 2026 (Oral). [paper & code coming July]
+<span class="venue venue-pub">ACL 2026</span> <span class="venue venue-oral">Oral</span> [paper & code coming July]
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
-preprint arXiv 2025. [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+<span class="venue venue-pre">Preprint 2025</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
-EMNLP Findings 2024. [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
+<span class="venue venue-pub">EMNLP Findings 2024</span> [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https://github.com/GAIR-NLP/weak-to-strong-reasoning)
 
 [//]: # (**BeHonest: Benchmarking Honesty of Large Language Models**  )
 
@@ -72,19 +72,19 @@ EMNLP Findings 2024. [[paper]](https://arxiv.org/abs/2407.13647) [[code]](https:
 
 **Alignment for Honesty**  
 **Yuqing Yang**, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu  
-NeurIPS 2024. [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
+<span class="venue venue-pub">NeurIPS 2024</span> [[paper]](https://arxiv.org/abs/2312.07000) [[code]](https://github.com/GAIR-NLP/alignment-for-honesty)
 
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**  
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, **Yuqing Yang**, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu  
-NeurIPS Datasets and Benchmarks 2024. [[paper]](https://arxiv.org/abs/2406.12753)
+<span class="venue venue-pub">NeurIPS D&amp;B 2024</span> [[paper]](https://arxiv.org/abs/2406.12753)
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 Kai Lv, **Yuqing Yang**, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
-ACL 2024 (Oral). [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
+<span class="venue venue-pub">ACL 2024</span> <span class="venue venue-oral">Oral</span> [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**  
 Tengxiao Liu, Qipeng Guo, **Yuqing Yang**, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
-EMNLP 2023. [[paper]](https://arxiv.org/abs/2310.14628)
+<span class="venue venue-pub">EMNLP 2023</span> [[paper]](https://arxiv.org/abs/2310.14628)
 
 [//]: # (**CoLLiE: Collaborative Training of Large Language Models in an Efficient Way**  )
 
