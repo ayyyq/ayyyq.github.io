@@ -21,7 +21,6 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 # News
 - 📍 **\[Jun 2026\]** I'm currently interning at **Google, Sunnyvale (SVL)**. Always happy to chat about **LLM memory and agents**, feel free to reach out!
-- ✈️ **\[Jul 2026\]** I'll be attending **ACL 2026 in San Diego (Jul 3 to 7)**. Come say hi!
 
 # Education
 - **University of Southern California**  
@@ -54,11 +53,11 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**  
 **Yuqing Yang**, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala  
-<span class="venue venue-cl">ACL 2026</span> <span class="venue venue-oral">Oral</span> [paper & code coming July]
+<span class="venue venue-cl">ACL 2026</span> <span class="venue venue-oral">Oral</span> [[paper]](https://arxiv.org/abs/2606.32029) [[code]](https://github.com/ayyyq/table-referencing)
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
-<span class="venue venue-pre">Preprint 2025</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+<span class="venue venue-cl">CoLM 2026</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
