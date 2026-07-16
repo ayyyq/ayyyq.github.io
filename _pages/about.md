@@ -57,7 +57,7 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
-<span class="venue venue-cl">CoLM 2026</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+<span class="venue venue-cl">CoLM 2026</span> <span class="venue venue-cl">KnowFM@ACL 2026</span> <span class="venue venue-oral">Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
