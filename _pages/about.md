@@ -53,11 +53,11 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**  
 **Yuqing Yang**, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala  
-<span class="venue venue-cl">ACL 2026</span> <span class="venue venue-oral">Oral</span> [[paper]](https://arxiv.org/abs/2606.32029) [[code]](https://github.com/ayyyq/table-referencing)
+<span class="venue venue-oral">ACL 2026 Oral</span> [[paper]](https://arxiv.org/abs/2606.32029) [[code]](https://github.com/ayyyq/table-referencing)
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
-<span class="venue venue-cl">CoLM 2026</span> <span class="venue venue-cl">KnowFM@ACL 2026</span> <span class="venue venue-oral">Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+<span class="venue venue-cl">CoLM 2026</span> <span class="venue venue-oral">KnowFM@ACL 2026 Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
@@ -79,7 +79,7 @@ Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 Kai Lv, **Yuqing Yang**, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
-<span class="venue venue-cl">ACL 2024</span> <span class="venue venue-oral">Oral</span> [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
+<span class="venue venue-oral">ACL 2024 Oral</span> [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**  
 Tengxiao Liu, Qipeng Guo, **Yuqing Yang**, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang  
