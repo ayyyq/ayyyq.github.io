@@ -130,3 +130,12 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 
 [//]: # ()
 [//]: # (Outstanding Graduate of Fudan University)
+
+<div class="back-to-top">
+  <div class="back-to-top__inner">
+    <a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" title="Back to top">
+      <img src="/images/yushao-small.jpg" alt="Back to top">
+    </a>
+    <span>Thank you!</span>
+  </div>
+</div>

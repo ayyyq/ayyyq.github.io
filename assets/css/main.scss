@@ -155,3 +155,36 @@ a, button, summary, label[for], [role="button"] {
 input, textarea {
   cursor: text;
 }
+
+/* Back-to-top cat at the end of the homepage */
+.back-to-top {
+  text-align: right;
+  margin: 3em 0 1em;
+
+  &__inner {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6em;
+  }
+
+  a { display: inline-block; line-height: 0; }
+
+  img {
+    width: 110px;
+    height: 110px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+    transform: rotate(6deg);
+    transition: transform 0.2s ease;
+  }
+
+  a:hover img { transform: rotate(10deg) scale(1.05); }
+
+  span {
+    font-family: "Comic Neue", "Comic Sans MS", "Chalkboard SE", cursive;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: $accent;
+  }
+}
