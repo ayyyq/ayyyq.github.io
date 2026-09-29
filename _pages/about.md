@@ -24,7 +24,7 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 # News
 - 🎤 **\[Oct 2026\]** I'll be at COLM 2026 in San Francisco (Oct 5 to 9), giving an oral presentation on our [retraction](https://arxiv.org/abs/2505.16170) paper on the afternoon of Oct 6. Come say hi!
 - ✈️ **\[Jul 2026\]** Attended ACL 2026 in San Diego, where I presented our [table referencing](https://arxiv.org/abs/2606.32029) paper as an oral, and our [retraction](https://arxiv.org/abs/2505.16170) paper won the Best Paper Award at KnowFM@ACL 2026.
-- 📍 **\[May 2026\]** Joined Google, Sunnyvale (SVL) as a research intern.
+- 📍 **\[May 2026\]** Joined Google, Sunnyvale (SVL) as a Student Researcher.
 
 # Education
 - **University of Southern California**  
@@ -39,7 +39,7 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 
 # Experience
 - 🟦 **Systems Research, Google**  
-  Research Intern, May 2026 - Aug. 2026  
+  Student Researcher, May 2026 - Aug. 2026  
   Mentor: [Jiani Zhang](https://jennyzhang0215.github.io/)  
   Worked on tool-centered evolution for data-lake analytics agents.
 - 🟧 **Amazon Bedrock Core Science**  
