@@ -79,6 +79,12 @@ $line:      #e5e7eb;  /* light gray rules / borders */
     border-left: 4px solid $accent;
     border-radius: 6px;
 
+    /* Scroll once there are more than ~3 items */
+    max-height: 10em;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #c7ccd3 transparent;
+
     li {
       margin-bottom: 0.45em;
       &:last-child { margin-bottom: 0; }

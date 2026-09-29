@@ -9,18 +9,22 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-👋 Hi, I'm Yuqing! I'm a second-year Ph.D. student at the **University of Southern California**, where I'm fortunate to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Before USC, I interned at **GAIR Lab** with Prof. [Pengfei Liu](https://plms.ai/people/index.html), earned my master's degree at **Fudan University** under Prof. [Xipeng Qiu](https://xpqiu.github.io/), and received my bachelor's degree from the **University of Chinese Academy of Sciences** in 2021.
+👋 Hi, I'm Yuqing! I'm a third-year Ph.D. student at the **University of Southern California**, where I'm fortunate to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Before USC, I interned at **GAIR Lab** with Prof. [Pengfei Liu](https://plms.ai/people/index.html), earned my master's degree at **Fudan University** under Prof. [Xipeng Qiu](https://xpqiu.github.io/), and received my bachelor's degree from the **University of Chinese Academy of Sciences** in 2021.
 
-[//]: # (My primary research interests revolve around LLM understanding, with a particular focus on issues related to LLM knowledge and reasoning.)
+[//]: # (I am broadly interested in understanding *how and why* today's large language models fail. My research analyzes and mitigates their limitations in **problem-solving** and **human-AI interaction**, with the ultimate goal of making large language models more useful and reliable under limited resources.)
 
-[//]: # (I am broadly interested in studying how current language models fail. My research focuses on analyzing and mitigating their limitations in problem-solving &#40;e.g., tackling unseen reasoning tasks, avoiding overcomplicating simple questions&#41; and human interaction &#40;e.g., managing memory, handling ambiguous user queries&#41;. Ultimately, I aim to make language models more useful and reliable under limited resources.)
+[//]: # (🔭 My ongoing projects center on **LLM Memory** and **Agent Evaluation and Benchmarking**.)
 
-I am broadly interested in understanding *how and why* today's large language models fail. My research analyzes and mitigates their limitations in **problem-solving** and **human-AI interaction**, with the ultimate goal of making large language models more useful and reliable under limited resources.
+I am broadly interested in building LLMs and LLM agents that improve themselves, that humans can trust, and that are efficient to train and run. My research currently spans three directions:
 
-🔭 My ongoing projects center on **LLM Memory** and **Agent Evaluation and Benchmarking**.
+- 🔁 **Self-improvement.** How can LLMs and agents improve themselves without human supervision? I study how LLMs can surpass their weaker supervisors ([weak-to-strong](https://arxiv.org/abs/2407.13647)), and how agents can evolve their own memory ([self-evolving memory extraction](https://arxiv.org/abs/2604.11610)), tools (unsupervised tool evolution, *paper coming soon*), and harnesses<!-- TODO: replace with [unsupervised tool evolution](arXiv link) once released -->.
+- 🤝 **Trustworthy collaboration.** How can LLMs and agents become collaborators that humans can trust and oversee? I work on honesty, so that LLMs are upfront about what they know and admit their mistakes ([honesty](https://arxiv.org/abs/2312.07000), [retraction](https://arxiv.org/abs/2505.16170)); memory, so that agents can better serve their users ([memory](https://arxiv.org/abs/2604.11610)); and transparency, so that humans can see what agents are actually doing.
+- ⚡ **Efficiency.** How can LLMs and agents become faster and cheaper to train and run? I have worked on fine-tuning LLMs with limited resources ([LOMO](https://arxiv.org/abs/2306.09782)), and I'm increasingly interested in the time and cost of agents on long-horizon tasks.
 
 # News
-- 📍 **\[Jun 2026\]** I'm currently interning at **Google, Sunnyvale (SVL)**. Always happy to chat about **LLM memory and agents**, feel free to reach out!
+- 🎤 **\[Oct 2026\]** I'll be at **COLM 2026 in San Francisco (Oct 5 to 9)**, giving an **oral presentation** on our [retraction](https://arxiv.org/abs/2505.16170) paper on the afternoon of Oct 6. Come say hi!
+- ✈️ **\[Jul 2026\]** Attended **ACL 2026 in San Diego**, where I presented our [table referencing](https://arxiv.org/abs/2606.32029) paper as an oral, and our [retraction](https://arxiv.org/abs/2505.16170) paper won the **Best Paper Award at KnowFM@ACL 2026**.
+- 📍 **\[May 2026\]** Joined **Google, Sunnyvale (SVL)** as a research intern.
 
 # Education
 - **University of Southern California**  
@@ -35,13 +39,13 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 # Experience
 - 🟦 **Systems Research, Google**  
-  Research Intern, May 2026 - Present  
+  Research Intern, May 2026 - Aug. 2026  
   Mentor: [Jiani Zhang](https://jennyzhang0215.github.io/)  
-  Working on agentic environment generation.
+  Worked on tool-centered evolution for data-lake analytics agents.
 - 🟧 **Amazon Bedrock Core Science**  
   Applied Scientist Intern, May 2025 - Aug. 2025  
   Mentor: [Qi Zhu](https://gentlezhu.github.io/)  
-  Strengthened LLM robustness on table understanding by diagnosing failure modes and optimizing data-referencing accuracy.
+  Enhanced LLM robustness for table tasks by identifying failure modes and optimizing data referencing accuracy.
 
 # Selected Publications
 \* denotes co-first authors
@@ -57,7 +61,7 @@ I am broadly interested in understanding *how and why* today's large language mo
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 **Yuqing Yang**, Robin Jia  
-<span class="venue venue-cl">CoLM 2026</span> <span class="venue venue-oral">KnowFM@ACL 2026 Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+<span class="venue venue-oral">CoLM 2026 Oral</span> <span class="venue venue-oral">KnowFM@ACL 2026 Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 **Yuqing Yang**, Yan Ma, Pengfei Liu  
