@@ -61,7 +61,7 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 
 **When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction**  
 <span class="authors">**Yuqing Yang**, Robin Jia</span>  
-<span class="venue venue-oral">CoLM 2026 Oral</span> <span class="venue venue-oral">KnowFM@ACL 2026 Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
+<span class="venue venue-oral">CoLM 2026 Oral</span> <span class="venue venue-award">🏆 KnowFM@ACL 2026 Best Paper</span> [[paper]](https://arxiv.org/abs/2505.16170) [[code]](https://github.com/ayyyq/llm-retraction)
 
 **Weak-to-Strong Reasoning**  
 <span class="authors">**Yuqing Yang**, Yan Ma, Pengfei Liu</span>  

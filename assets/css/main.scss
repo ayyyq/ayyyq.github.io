@@ -116,7 +116,8 @@ $line:      #e5e7eb;  /* light gray rules / borders */
   .venue-cl   { background: #e7eef7;  color: #34568a; }  /* CL conferences (ACL, EMNLP, ...) */
   .venue-ml   { background: #e8f1ea;  color: #356b50; }  /* ML conferences (NeurIPS, ...) */
   .venue-pre  { background: #f1f2f4;  color: #6b7280; }  /* preprint / under review */
-  .venue-oral { background: #f6ecd6;  color: #8a6206; }  /* oral highlight */
+  .venue-oral,
+  .venue-award { background: #fdf0f0;  color: #b91c1c;  font-weight: 700; }  /* oral / best paper highlight */
 
   /* Publication "[paper]" / "[code]" links styled as small pills */
   p a[href*="arxiv.org"],
