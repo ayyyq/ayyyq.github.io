@@ -55,6 +55,10 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 <span class="authors">**Yuqing Yang**, Tengxiao Liu, Wang Bill Zhu, Taiwei Shi, Linxin Song, Robin Jia</span>  
 <span class="venue venue-pre">Preprint 2026</span> [[paper]](https://arxiv.org/abs/2604.11610) [[code]](https://github.com/ayyyq/heterogeneous-memory-extraction)
 
+**Can Coding Agents Optimize Algorithms Autonomously?**  
+<span class="authors">Tengxiao Liu, **Yuqing Yang**, Xi Ye, Danqi Chen</span>  
+<span class="venue venue-blog">Blog 2026</span> [[blog]](https://tengxiaoliu.github.io/autoevolver/){: .pub-link} [[code]](https://github.com/tengxiaoliu/autoevolver)
+
 **When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**  
 <span class="authors">**Yuqing Yang**, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala</span>  
 <span class="venue venue-oral">ACL 2026 Oral</span> [[paper]](https://arxiv.org/abs/2606.32029) [[code]](https://github.com/ayyyq/table-referencing)
