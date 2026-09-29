@@ -143,3 +143,15 @@ $line:      #e5e7eb;  /* light gray rules / borders */
     }
   }
 }
+
+/* Custom cursor: "please do not the cat" pack from sweezy-cursors.com
+   (hotspots sit on the fingertip; fall back to system cursors) */
+html, body {
+  cursor: url("/images/cursors/cat-cursor.png") 2 2, auto;
+}
+a, button, summary, label[for], [role="button"] {
+  cursor: url("/images/cursors/cat-pointer.png") 2 20, pointer;
+}
+input, textarea {
+  cursor: text;
+}

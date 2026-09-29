@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "PhD student at USC building LLMs and LLM agents that improve themselves, that humans can trust, and that are efficient to train and run."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-👋 Hi, I'm Yuqing! I'm a third-year Ph.D. student at the **University of Southern California**, where I'm fortunate to be advised by Prof. [Robin Jia](https://robinjia.github.io/). Before USC, I interned at **GAIR Lab** with Prof. [Pengfei Liu](https://plms.ai/people/index.html), earned my master's degree at **Fudan University** under Prof. [Xipeng Qiu](https://xpqiu.github.io/), and received my bachelor's degree from the **University of Chinese Academy of Sciences** in 2021.
+👋 Hi, I'm Yuqing! I'm a third-year Ph.D. student at the University of Southern California, advised by Prof. [Robin Jia](https://robinjia.github.io/). Previously, I earned my M.S. at Fudan University with Prof. [Xipeng Qiu](https://xpqiu.github.io/) and interned at GAIR Lab with Prof. [Pengfei Liu](https://plms.ai/people/index.html).
 
 [//]: # (I am broadly interested in understanding *how and why* today's large language models fail. My research analyzes and mitigates their limitations in **problem-solving** and **human-AI interaction**, with the ultimate goal of making large language models more useful and reliable under limited resources.)
 
@@ -22,9 +22,9 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 - ⚡ **Efficiency.** How can LLMs and agents become faster and cheaper to train and run? I have worked on fine-tuning LLMs with limited resources ([LOMO](https://arxiv.org/abs/2306.09782)), and I'm increasingly interested in the time and cost of agents on long-horizon tasks.
 
 # News
-- 🎤 **\[Oct 2026\]** I'll be at **COLM 2026 in San Francisco (Oct 5 to 9)**, giving an **oral presentation** on our [retraction](https://arxiv.org/abs/2505.16170) paper on the afternoon of Oct 6. Come say hi!
-- ✈️ **\[Jul 2026\]** Attended **ACL 2026 in San Diego**, where I presented our [table referencing](https://arxiv.org/abs/2606.32029) paper as an oral, and our [retraction](https://arxiv.org/abs/2505.16170) paper won the **Best Paper Award at KnowFM@ACL 2026**.
-- 📍 **\[May 2026\]** Joined **Google, Sunnyvale (SVL)** as a research intern.
+- 🎤 **\[Oct 2026\]** I'll be at COLM 2026 in San Francisco (Oct 5 to 9), giving an oral presentation on our [retraction](https://arxiv.org/abs/2505.16170) paper on the afternoon of Oct 6. Come say hi!
+- ✈️ **\[Jul 2026\]** Attended ACL 2026 in San Diego, where I presented our [table referencing](https://arxiv.org/abs/2606.32029) paper as an oral, and our [retraction](https://arxiv.org/abs/2505.16170) paper won the Best Paper Award at KnowFM@ACL 2026.
+- 📍 **\[May 2026\]** Joined Google, Sunnyvale (SVL) as a research intern.
 
 # Education
 - **University of Southern California**  
