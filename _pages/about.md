@@ -17,7 +17,7 @@ redirect_from:
 
 I am broadly interested in building LLMs and LLM agents that improve themselves, that humans can trust, and that are efficient to train and run. My research currently spans three directions:
 
-- 🔁 **Self-improvement.** How can LLMs and agents improve themselves without human supervision? I study how LLMs can surpass their weaker supervisors ([weak-to-strong](https://arxiv.org/abs/2407.13647)), and how agents can evolve their own memory ([self-evolving memory extraction](https://arxiv.org/abs/2604.11610)), tools (unsupervised tool evolution, *paper coming soon*), and harnesses<!-- TODO: replace with [unsupervised tool evolution](arXiv link) once released -->.
+- 🔁 **Self-improvement.** How can LLMs and agents improve themselves without human supervision? I study how LLMs can surpass their weaker supervisors ([weak-to-strong](https://arxiv.org/abs/2407.13647)), and how agents can evolve their own memory ([self-evolving memory extraction](https://arxiv.org/abs/2604.11610)), tools ([unsupervised tool evolution](https://arxiv.org/abs/2610.27327)), and harnesses.
 - 🤝 **Trustworthy collaboration.** How can LLMs and agents become collaborators that humans can trust and oversee? I work on honesty, so that LLMs are upfront about what they know and admit their mistakes ([honesty](https://arxiv.org/abs/2312.07000), [retraction](https://arxiv.org/abs/2505.16170)); memory, so that agents can better serve their users ([memory](https://arxiv.org/abs/2604.11610)); and transparency, so that humans can see what agents are actually doing.
 - ⚡ **Efficiency.** How can LLMs and agents become faster and cheaper to train and run? I have worked on fine-tuning LLMs with limited resources ([LOMO](https://arxiv.org/abs/2306.09782)), and I'm increasingly interested in the time and cost of agents on long-horizon tasks.
 
@@ -41,7 +41,7 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 - 🟦 **Systems Research, Google**  
   Student Researcher, May 2026 - Aug. 2026  
   Mentor: [Jiani Zhang](https://jennyzhang0215.github.io/)  
-  Worked on tool-centered evolution for data-lake analytics agents.
+  Worked on [unsupervised tool evolution](https://arxiv.org/abs/2610.27327) for data-lake analytics agents.
 - 🟧 **Amazon Bedrock Core Science**  
   Applied Scientist Intern, May 2025 - Aug. 2025  
   Mentor: [Qi Zhu](https://gentlezhu.github.io/)  
@@ -50,6 +50,10 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 # Selected Publications
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
+
+**Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics**<span class="new-badge">new</span>  
+<span class="authors">**Yuqing Yang**, Yurong Liu, Deqing Fu, Manav Garg, Sravan Babu Bodapati, Fatma Ozcan, Alon Y. Halevy, Jiani Zhang</span>  
+<span class="venue venue-pre">Preprint 2026</span> [[paper]](https://arxiv.org/abs/2610.27327)
 
 **Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks**  
 <span class="authors">**Yuqing Yang**, Tengxiao Liu, Wang Bill Zhu, Taiwei Shi, Linxin Song, Robin Jia</span>  

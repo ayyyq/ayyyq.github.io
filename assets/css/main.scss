@@ -120,6 +120,26 @@ $line:      #e5e7eb;  /* light gray rules / borders */
   .venue-oral,
   .venue-award { background: #fdf0f0;  color: #b91c1c;  font-weight: 700; }  /* oral / best paper highlight */
 
+  /* Softly pulsing superscript "new" after a freshly released paper's title */
+  .new-badge {
+    margin-left: 0.3em;
+    font-family: $serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 0.72em;
+    color: #b91c1c;
+    vertical-align: super;
+    line-height: 0;
+    animation: new-blink 2.4s ease-in-out infinite;
+  }
+  @keyframes new-blink {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: 0.45; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .new-badge { animation: none; }
+  }
+
   /* Publication "[paper]" / "[code]" links styled as small pills */
   p a[href*="arxiv.org"],
   p a[href*="github.com"],
