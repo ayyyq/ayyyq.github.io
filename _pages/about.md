@@ -53,7 +53,7 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 
 **Did Your Agent Tell You? Evaluating Deviation Disclosure in Agents' Final Messages**<span class="new-badge">new</span>  
 <span class="authors">**Yuqing Yang**, Wang Bill Zhu, Xinyue Cui, Ziyi Liu, Brihi Joshi, Tengxiao Liu, Yuehan Qin, Linxin Song, Xi Ye, Robin Jia</span>  
-<span class="venue venue-blog">Blog 2026</span> [[blog]](https://ayyyq.github.io/did-your-agent-tell-you/){: .pub-link} [[data]](https://huggingface.co/datasets/ayyyq/FIDA-Bench)
+<span class="venue venue-blog">Blog 2026</span> [[blog]](https://ayyyq.github.io/did-your-agent-tell-you/){: .pub-link} [[data]](https://huggingface.co/datasets/ayyyq/FIDA-Bench){: .pub-link}
 
 **Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics**<span class="new-badge">new</span>  
 <span class="authors">**Yuqing Yang**, Yurong Liu, Deqing Fu, Manav Garg, Sravan Babu Bodapati, Fatma Ozcan, Alon Y. Halevy, Jiani Zhang</span>  
