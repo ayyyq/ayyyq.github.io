@@ -18,11 +18,11 @@ redirect_from:
 I am broadly interested in building LLMs and LLM agents that improve themselves, that humans can trust, and that are efficient to train and run. My research currently spans three directions:
 
 - 🔁 **Self-improvement.** How can LLMs and agents improve themselves without human supervision? I study how LLMs can surpass their weaker supervisors ([weak-to-strong](https://arxiv.org/abs/2407.13647)), and how agents can evolve their own memory ([self-evolving memory extraction](https://arxiv.org/abs/2604.11610)), tools ([unsupervised tool evolution](https://arxiv.org/abs/2610.27327)), and harnesses.
-- 🤝 **Trustworthy collaboration.** How can LLMs and agents become collaborators that humans can trust and oversee? I work on honesty, so that LLMs are upfront about what they know and admit their mistakes ([honesty](https://arxiv.org/abs/2312.07000), [retraction](https://arxiv.org/abs/2505.16170)); memory, so that agents can better serve their users ([memory](https://arxiv.org/abs/2604.11610)); and transparency, so that humans can see what agents are actually doing.
+- 🤝 **Trustworthy collaboration.** How can LLMs and agents become collaborators that humans can trust and oversee? I work on honesty, so that LLMs are upfront about what they know and admit their mistakes ([honesty](https://arxiv.org/abs/2312.07000), [retraction](https://arxiv.org/abs/2505.16170)); memory, so that agents can better serve their users ([memory](https://arxiv.org/abs/2604.11610)); and transparency, so that humans can see what agents are actually doing ([faithful disclosure](https://ayyyq.github.io/did-your-agent-tell-you/)).
 - ⚡ **Efficiency.** How can LLMs and agents become faster and cheaper to train and run? I have worked on fine-tuning LLMs with limited resources ([LOMO](https://arxiv.org/abs/2306.09782)), and I'm increasingly interested in the time and cost of agents on long-horizon tasks.
 
 # News
-- 🎤 **\[Oct 2026\]** I'll be at COLM 2026 in San Francisco (Oct 5 to 9), giving an oral presentation on our [retraction](https://arxiv.org/abs/2505.16170) paper on the afternoon of Oct 6. Come say hi!
+- 🎤 **\[Oct 2026\]** Attended COLM 2026 in San Francisco, where I gave an oral presentation on our [retraction](https://arxiv.org/abs/2505.16170) paper.
 - ✈️ **\[Jul 2026\]** Attended ACL 2026 in San Diego, where I presented our [table referencing](https://arxiv.org/abs/2606.32029) paper as an oral, and our [retraction](https://arxiv.org/abs/2505.16170) paper won the Best Paper Award at KnowFM@ACL 2026.
 - 📍 **\[May 2026\]** Joined Google, Sunnyvale (SVL) as a Student Researcher.
 
@@ -50,6 +50,10 @@ I am broadly interested in building LLMs and LLM agents that improve themselves,
 # Selected Publications
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
+
+**Did Your Agent Tell You? Evaluating Deviation Disclosure in Agents' Final Messages**<span class="new-badge">new</span>  
+<span class="authors">**Yuqing Yang**, Wang Bill Zhu, Xinyue Cui, Ziyi Liu, Brihi Joshi, Tengxiao Liu, Yuehan Qin, Linxin Song, Xi Ye, Robin Jia</span>  
+<span class="venue venue-blog">Blog 2026</span> [[blog]](https://ayyyq.github.io/did-your-agent-tell-you/){: .pub-link} [[data]](https://huggingface.co/datasets/ayyyq/FIDA-Bench)
 
 **Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics**<span class="new-badge">new</span>  
 <span class="authors">**Yuqing Yang**, Yurong Liu, Deqing Fu, Manav Garg, Sravan Babu Bodapati, Fatma Ozcan, Alon Y. Halevy, Jiani Zhang</span>  
